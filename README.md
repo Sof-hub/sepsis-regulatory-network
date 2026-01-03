@@ -15,17 +15,13 @@ This repository contains the gene regulatory network data illustrating the immun
 The network demonstrates how genetic variation influences immune regulatory pathways during severe infection, providing mechanistic insights into sepsis susceptibility.
 
 ## Repository Contents
-
+```
 sepsis-regulatory-network/
-        |
         ├── README.md # This file
-        |
         ├── sepsis_network_nodes.csv # Network nodes (genes, TFs, SNPs)
-        |
         ├── sepsis_network_edges.csv # Network edges (interactions)
-        |
         └── LICENSE # CC0 License
-
+```
 
 ## Data Files
 
