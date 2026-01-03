@@ -169,6 +169,7 @@ print(f"Edges: {G.number_of_edges()}")
 ```
 
 ## Citation
+While this data is released under CC0, we kindly request that you cite this repository if you use the data in your work.
 
 @misc{sepsis-network-2026,
   author = {Quinteros, S.},
