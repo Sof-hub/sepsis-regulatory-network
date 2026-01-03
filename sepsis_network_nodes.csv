@@ -1,0 +1,30 @@
+﻿id,label,type,risk_status,degree,node_color,node_size,description
+NFKB,NF-κB,TF,neutral,18,#2E86AB,80,Nuclear factor kappa B
+IRF1,IRF1,TF,neutral,14,#2E86AB,70,Interferon regulatory factor 1
+IRF7,IRF7,TF,neutral,12,#2E86AB,65,Interferon regulatory factor 7
+STAT1,STAT1,TF,neutral,15,#2E86AB,72,Signal transducer and activator of transcription 1
+STAT3,STAT3,TF,neutral,16,#2E86AB,75,Signal transducer and activator of transcription 3
+STAT5,STAT5,TF,neutral,11,#2E86AB,62,Signal transducer and activator of transcription 5
+TNF,TNF,gene,neutral,10,#7D8491,55,Tumor necrosis factor
+IL6,IL6,gene,neutral,12,#7D8491,60,Interleukin 6
+IL1B,IL1B,gene,neutral,9,#7D8491,52,Interleukin 1 beta
+IL10,IL10,gene,neutral,8,#7D8491,50,Interleukin 10
+IL18,IL18,gene,neutral,7,#7D8491,48,Interleukin 18
+CXCL8,CXCL8,gene,neutral,8,#7D8491,50,C-X-C motif chemokine ligand 8
+CCL2,CCL2,gene,neutral,7,#7D8491,48,C-C motif chemokine ligand 2
+TLR4,TLR4,gene,neutral,10,#7D8491,55,Toll-like receptor 4
+CISH,CISH,gene,neutral,6,#7D8491,45,Cytokine inducible SH2 containing protein
+SOCS1,SOCS1,gene,neutral,7,#7D8491,48,Suppressor of cytokine signaling 1
+SOCS3,SOCS3,gene,neutral,6,#7D8491,45,Suppressor of cytokine signaling 3
+NFKBIA,NFKBIA,gene,neutral,5,#7D8491,42,NFKB inhibitor alpha
+rs1800629,rs1800629,SNP,risk,2,#E63946,30,TNF -308G>A promoter variant
+rs1800795,rs1800795,SNP,risk,2,#E63946,30,IL6 -174G>C promoter variant
+rs187238,rs187238,SNP,risk,2,#E63946,30,IL18 -137G>C promoter variant
+rs4986790,rs4986790,SNP,risk,2,#E63946,30,TLR4 Asp299Gly coding variant
+rs143356980,rs143356980,SNP,risk,3,#E63946,35,CISH enhancer variant (Rosier 2021)
+rs5743708,rs5743708,SNP,risk,2,#E63946,30,TLR2 variant
+rs1800896,rs1800896,SNP,protective,2,#06A77D,30,IL10 -1082G>A promoter variant
+rs2243250,rs2243250,SNP,protective,2,#06A77D,30,IL4 -590C>T promoter variant
+rs1061622,rs1061622,SNP,protective,2,#06A77D,30,TNFRSF1B variant
+rs4848306,rs4848306,SNP,protective,2,#06A77D,30,SOCS1 variant
+rs2280788,rs2280788,SNP,protective,2,#06A77D,30,CXCL8 variant
